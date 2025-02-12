@@ -1,7 +1,8 @@
-# Oasis App
+# DVM Apps (This is OASIS '22 repo)
 
-Link to BOSM '22 App: https://github.com/dvm-bitspilani/BOSM-2022-App
-Link to APOGEE '23 App: https://github.com/dvm-bitspilani/APOGEE-2023-app
+Link to BOSM '22 App: https://github.com/dvm-bitspilani/BOSM-2022-App  
+Link to APOGEE '23 App: https://github.com/dvm-bitspilani/APOGEE-2023-app    
+
 Welcome to Oasis App, the one-stop app for all your fest needs! With this app, you can buy tickets to concerts, purchase food from stalls, buy official merchandise, and check the event details, all from the comfort of your phone.
 
 ## Features
